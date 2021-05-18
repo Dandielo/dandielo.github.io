@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dandielo.net/archives/</loc>
+    <loc>https://dandielo.github.io/archives/</loc>
   </url><url>
-    <loc>https://dandielo.net/categories/</loc>
+    <loc>https://dandielo.github.io/categories/</loc>
   </url><url>
-    <loc>https://dandielo.net/</loc>
+    <loc>https://dandielo.github.io/</loc>
   </url><url>
-    <loc>https://dandielo.net/series/</loc>
+    <loc>https://dandielo.github.io/series/</loc>
   </url><url>
-    <loc>https://dandielo.net/tags/</loc>
+    <loc>https://dandielo.github.io/tags/</loc>
   </url>
 </urlset>
