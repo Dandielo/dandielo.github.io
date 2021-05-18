@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>two on Dandielo - Blog</title>
-    <link>https://dandielo.github.io/tags/two/</link>
-    <description>Recent content in two on Dandielo - Blog</description>
+    <title>game-engine on Digital Cake</title>
+    <link>https://dandielo.github.io/tags/game-engine/</link>
+    <description>Recent content in game-engine on Digital Cake</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2020 12:58:56 +0200</lastBuildDate><atom:link href="https://dandielo.github.io/tags/two/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Oct 2020 12:58:56 +0200</lastBuildDate><atom:link href="https://dandielo.github.io/tags/game-engine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IceShard - Engine</title>
       <link>https://dandielo.github.io/iceshard/</link>

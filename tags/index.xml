@@ -1,27 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Dandielo - Blog</title>
+    <title>Tags on Digital Cake</title>
     <link>https://dandielo.github.io/tags/</link>
-    <description>Recent content in Tags on Dandielo - Blog</description>
+    <description>Recent content in Tags on Digital Cake</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2020 12:58:56 +0200</lastBuildDate><atom:link href="https://dandielo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 May 2021 20:39:29 +0200</lastBuildDate><atom:link href="https://dandielo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>one</title>
-      <link>https://dandielo.github.io/tags/one/</link>
-      <pubDate>Fri, 16 Oct 2020 12:58:56 +0200</pubDate>
+      <title>cake</title>
+      <link>https://dandielo.github.io/tags/cake/</link>
+      <pubDate>Tue, 18 May 2021 20:39:29 +0200</pubDate>
       
-      <guid>https://dandielo.github.io/tags/one/</guid>
+      <guid>https://dandielo.github.io/tags/cake/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>two</title>
-      <link>https://dandielo.github.io/tags/two/</link>
+      <title>naming</title>
+      <link>https://dandielo.github.io/tags/naming/</link>
+      <pubDate>Tue, 18 May 2021 20:39:29 +0200</pubDate>
+      
+      <guid>https://dandielo.github.io/tags/naming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://dandielo.github.io/tags/programming/</link>
+      <pubDate>Tue, 18 May 2021 20:39:29 +0200</pubDate>
+      
+      <guid>https://dandielo.github.io/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>game-engine</title>
+      <link>https://dandielo.github.io/tags/game-engine/</link>
       <pubDate>Fri, 16 Oct 2020 12:58:56 +0200</pubDate>
       
-      <guid>https://dandielo.github.io/tags/two/</guid>
+      <guid>https://dandielo.github.io/tags/game-engine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iceshard</title>
+      <link>https://dandielo.github.io/tags/iceshard/</link>
+      <pubDate>Fri, 16 Oct 2020 12:58:56 +0200</pubDate>
+      
+      <guid>https://dandielo.github.io/tags/iceshard/</guid>
       <description></description>
     </item>
     

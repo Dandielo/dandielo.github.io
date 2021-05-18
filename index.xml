@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dandielo - Blog</title>
+    <title>Digital Cake</title>
     <link>https://dandielo.github.io/</link>
-    <description>Recent content on Dandielo - Blog</description>
+    <description>Recent content on Digital Cake</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2020 12:58:56 +0200</lastBuildDate><atom:link href="https://dandielo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 May 2021 20:39:29 +0200</lastBuildDate><atom:link href="https://dandielo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
-      <link>https://dandielo.github.io/posts/hello-world/</link>
-      <pubDate>Fri, 16 Oct 2020 12:58:56 +0200</pubDate>
+      <title>What&#39;s up with the cake?</title>
+      <link>https://dandielo.github.io/posts/cake-in-the-room/</link>
+      <pubDate>Tue, 18 May 2021 20:39:29 +0200</pubDate>
       
-      <guid>https://dandielo.github.io/posts/hello-world/</guid>
-      <description>Hello, World!</description>
+      <guid>https://dandielo.github.io/posts/cake-in-the-room/</guid>
+      <description>Hang on, the cake is not a lie!
+But first&amp;hellip;
+Let&amp;rsquo;s talk: Naming Things. One of the many things a programmer should learn, is to properly name variables, functions, classes, etc. With proper naming, we can eliminate a lot of problems that will haunt us when we get older. (Yes, even a minute ago you were younger&amp;hellip;)
+When learning to program, we are initially introduced to variables using simple mathematical problems, for example: c = a + b or (x * y) / z</description>
     </item>
     
     <item>
