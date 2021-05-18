@@ -2,14 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://dandielo.github.io/</loc>
+    <lastmod>2020-10-16T12:58:56+02:00</lastmod>
+  </url><url>
+    <loc>https://dandielo.github.io/iceshard/</loc>
+    <lastmod>2020-10-16T12:58:56+02:00</lastmod>
+  </url><url>
+    <loc>https://dandielo.github.io/tags/one/</loc>
+    <lastmod>2020-10-16T12:58:56+02:00</lastmod>
+  </url><url>
+    <loc>https://dandielo.github.io/tags/</loc>
+    <lastmod>2020-10-16T12:58:56+02:00</lastmod>
+  </url><url>
+    <loc>https://dandielo.github.io/tags/two/</loc>
+    <lastmod>2020-10-16T12:58:56+02:00</lastmod>
+  </url><url>
     <loc>https://dandielo.github.io/archives/</loc>
   </url><url>
     <loc>https://dandielo.github.io/categories/</loc>
   </url><url>
-    <loc>https://dandielo.github.io/</loc>
-  </url><url>
     <loc>https://dandielo.github.io/series/</loc>
-  </url><url>
-    <loc>https://dandielo.github.io/tags/</loc>
   </url>
 </urlset>

@@ -5,6 +5,25 @@
     <link>https://dandielo.github.io/tags/</link>
     <description>Recent content in Tags on Dandielo - Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://dandielo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Oct 2020 12:58:56 +0200</lastBuildDate><atom:link href="https://dandielo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>one</title>
+      <link>https://dandielo.github.io/tags/one/</link>
+      <pubDate>Fri, 16 Oct 2020 12:58:56 +0200</pubDate>
+      
+      <guid>https://dandielo.github.io/tags/one/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>two</title>
+      <link>https://dandielo.github.io/tags/two/</link>
+      <pubDate>Fri, 16 Oct 2020 12:58:56 +0200</pubDate>
+      
+      <guid>https://dandielo.github.io/tags/two/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
